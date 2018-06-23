@@ -2,6 +2,6 @@ class RunImmediatelyJob < ApplicationJob
   queue_as :default
 
   def perform(*args)
-    Rails.logger.debug("Hello from active job!")
+    Rails.logger.debug("I run immediately!")
   end
 end
