@@ -1,24 +1,10 @@
-# README
+# Jobernetes Example
+An example app configured  with the Jobernetes ActiveJob adapter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Setup
+```
+bundle install
+rails s
+```
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Assumes you have installed Docker for Mac edge and have a Kubernetes cluster running in it with your context currently set to that.
