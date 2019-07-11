@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jasonwc/jobernetes.git
-  revision: 3e0e334ab3eaf22c1a63d58ba858597b20050e77
+  revision: 87946203ffe203fdedc18cbb76ecaee28a8ac755
   branch: master
   specs:
     jobernetes (0.1.0)
